@@ -4,9 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SuhasReturn&label=Profile views&color=0e75b6&style=flat" alt="SuhasReturn" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SuhasReturn" alt="SuhasReturn" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/SuhasSk256993" target="blank"><img src="https://img.shields.io/twitter/follow/SuhasSk256993?logo=twitter&style=for-the-badge" alt="SuhasSk256993" /></a> </p>
 
 - 🔭 I'm currently working on **A FullStack project that Visualizes the code in real time.**
 
