@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/SuhasSk256993" target="blank"><img src="https://img.shields.io/twitter/follow/SuhasSk256993?logo=twitter&style=for-the-badge" alt="SuhasSk256993" /></a> </p>
 
-- 🔭 I'm currently working on **A FullStack project that Visualizes the code in real time.i use **
+- 🔭 I'm currently working on **A FullStack project that Visualizes the code in real time.**
 
 - 🌱 I'm currently learning **Data structures and Algorithms**
 
