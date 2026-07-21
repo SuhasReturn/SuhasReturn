@@ -562,6 +562,10 @@ A personal finance application that helps users manage expenses and track spendi
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://personal-portfoio-kxbr.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
 
 ---
@@ -571,13 +575,13 @@ A personal finance application that helps users manage expenses and track spendi
 
 <div align="center">
 
-## 🚧 Portfolio Website
+### My personal portfolio is live!
 
-### Currently Building Something Awesome...
+Check out my projects, skills, and developer journey in one place.
 
-A personal portfolio showcasing my projects, skills, and developer journey is under development.
-
-Stay tuned! 🚀
+<a href="https://personal-portfoio-kxbr.vercel.app/">
+<img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
@@ -592,6 +596,8 @@ Stay tuned! 🚀
 💼 **LinkedIn:**  www.linkedin.com/in/suhas-sk
 
 🐙 **GitHub:**  https://github.com/SuhasReturn
+
+🌐 **Portfolio:**  https://personal-portfoio-kxbr.vercel.app/
 
 I'm always happy to connect with fellow developers and learners.
 
@@ -632,6 +638,3 @@ I'm always happy to connect with fellow developers and learners.
 <!-- ===================================================== -->
 <!--          Designed & Maintained by Suhas SK            -->
 <!-- ===================================================== -->
-
-
-
